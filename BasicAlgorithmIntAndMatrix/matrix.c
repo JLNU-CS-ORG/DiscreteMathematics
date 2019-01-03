@@ -47,16 +47,6 @@ int main(void)
 		for (j = 0; j < 2; j++)
 			E[i][j] = 2;
 	
-	for (i = 0; i < 7; i++) {
-		for (j = 0; j < 3; j++) {
-			if (i > 3) {
-				printf("	|%d ", E[i][j]);
-			} else {
-				printf("|%d ", D[i][j]);
-			}
-		}
-		printf("|	|%d \n", E[i][);
-	}
 	int **F = matmul(D, E, 4, 3, 2);
 	
 	for (i = 0; i < 4; i++) {
