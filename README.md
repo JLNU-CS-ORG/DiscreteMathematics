@@ -1,6 +1,6 @@
 # DiscreteMathematics
 
-## Content of sudir
+## Contents of subdirectory
 * directory `BasicAlgorithmIntAndMatrix`:</br>
 Just some basic algorithm and some operate of matrix.
 * directory `Recursive`:</br>
